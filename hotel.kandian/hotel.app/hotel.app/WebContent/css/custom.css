@@ -1,0 +1,33 @@
+.description {
+    color: #2c2c2c;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.features-list {
+    margin-top: 10px;
+    list-style-type: none;
+    font-size: 13px;
+    color: #4e4e4e;
+
+}
+
+.pkg-container {
+    position: relative;
+}
+
+.night-price {
+    position: absolute;
+    right: 0;
+    top: 20%;
+    padding: 8px;
+    border: 1px solid #b4b4b4;
+}
+
+.price-ovrd {
+    font-size: 15px;
+}
+
+.price-ovrd .p-midd-head {
+    font-size: 30px;
+}
